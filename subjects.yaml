@@ -1,0 +1,96 @@
+subjects:
+  cryptography:
+    folder: crypto
+    chunk_size: 600
+    chunk_overlap: 100
+    keywords: [aes, rsa, cipher, hash, key, tls, encrypt, decrypt,
+               prime, elliptic, signature, nonce, diffie, block, stream]
+  operating_systems:
+    folder: os
+    chunk_size: 500
+    chunk_overlap: 75
+    keywords: [process, thread, scheduler, memory, kernel, deadlock,
+               paging, semaphore, mutex, syscall, interrupt, inode, fork]
+  databases:
+    folder: db
+    chunk_size: 500
+    chunk_overlap: 75
+    keywords: [sql, query, index, transaction, join, normalization,
+               acid, schema, relational, nosql, b-tree, lock]
+  computer_networks:
+    folder: networks
+    chunk_size: 500
+    chunk_overlap: 75
+    keywords: [tcp, udp, ip, routing, dns, http, packet, subnet,
+               protocol, osi, bandwidth, latency, socket, nat]
+  algorithms:
+    folder: algo
+    chunk_size: 550
+    chunk_overlap: 90
+    keywords: [sorting, graph, dynamic programming, greedy, complexity,
+               bfs, dfs, binary search, tree, heap, recursion, big-o]
+  guide:
+    folder: guide
+    chunk_size: 650
+    chunk_overlap: 100
+    keywords: [
+      # Semester identifiers
+      semester, sem3, sem4, sem5, sem6, third semester, fourth semester,
+      fifth semester, sixth semester,
+
+      # Course names — Sem 3
+      principles of programming languages, ppl, data structures, dsa,
+      digital systems and design, dsd, computer organization, co,
+      combinatorics, graph theory, probability, operational research,
+
+      # Course names — Sem 4
+      formal languages, automata theory, flat, toc, theory of computation,
+      design and analysis of algorithms, daa, operating systems,
+      software engineering, design thinking, advanced data structures, adsa,
+      industrial economics, foreign trade,
+
+      # Course names — Sem 5
+      computer architecture, database management systems, dbms,
+      computer networks, artificial intelligence, machine learning, aiml,
+      augmented reality, virtual reality, arvr, cloud computing,
+      ethical hacking, responsible ai,
+
+      # Course names — Sem 6
+      embedded systems, compiler design, cryptography, professional ethics,
+      industrial lecture, web technology, data analytics,
+      machine learning techniques, app development, compilers laboratory,
+
+      # Elective guidance
+      elective, programme elective, open elective, nptel, pe, oe,
+      which elective, choose elective, elective choice, how many electives,
+      overwork, chill, higher studies, gate, gre, placement, ppo, internship,
+
+      # Study strategy / how to study
+      how to study, study guide, study mechanism, approach, tips, advice,
+      mug up, understand, practice, revision, notes, ppt, powerpoint,
+      previous year, gate questions, book back questions, textbook,
+      neso academy, jenny lectures, gate smashers, abdul bari, mahesh huddar,
+      nptel playlist, youtube, striver, leetcode,
+
+      # Lab guidance
+      laboratory, lab, lab record, continuous assessment, on spot question,
+      socket programming, ns2, tcl, nam, dbms lab, sql commands,
+      xaamp, phpmyadmin, mysqlworkbench, xml, xquery, mongodb, nodejs,
+      embedded systems lab, sensor, arduino, led, app development lab,
+      html, css, javascript, php, mysql, android studio, github,
+      algorithms lab, os lab, shell programming, verilog, digital systems lab,
+
+      # Professors
+      sridevi, brindha, nithya, rajeshwari, sivasankar, oswald,
+      mary saira bhanu,
+
+      # Credit structure
+      credits, total credits, programme core, institute requirement,
+      humanities, integrated course, theory lab,
+
+      # Career & general
+      internship, placement, cpga, grade, scoring, s grade, a grade,
+      semester advice, what to focus, important course, easiest course,
+      hectic, research, competitive exam
+    ]
+  # Add more subjects here — no code changes needed

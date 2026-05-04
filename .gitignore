@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Chroma DB
+chroma_db/
+
+# Data files
+course_materials/
+
+# OS files
+.DS_Store
+Thumbs.db
