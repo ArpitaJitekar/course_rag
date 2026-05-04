@@ -261,16 +261,6 @@ ollama pull phi3:mini   # 4GB RAM, 2-3x faster than Mistral
 | Pipeline | LangChain Core | Retrieval chain wiring |
 | UI | Gradio | 5-line chat interface |
 
----
-
-## 💡 Tips
-
-- **Always keep your own lecture slides as the primary source** — the model answers in terms of what was actually taught in your course
-- **Name guide PDFs clearly** — include `sem5`, `sem6` etc. in the filename for semester filtering to work
-- **Use `debug <question>`** before reporting wrong answers — it shows exactly which chunks were retrieved, making it easy to spot gaps in your materials
-- **Run `rebuild <subject>`** whenever you add new PDFs to a subject — only that subject gets re-processed, not everything
-
----
 
 *Built for NIT Trichy CSE — runs fully offline on WSL2 + Ollama*
 
