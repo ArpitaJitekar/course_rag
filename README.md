@@ -71,7 +71,7 @@ Student question
 
 ---
 
-## 🚀 Setup (WSL / Ubuntu)
+## Setup (WSL / Ubuntu)
 
 ### 1. Install Ollama
 
@@ -131,7 +131,7 @@ python app.py
 
 ---
 
-## 💬 CLI Commands
+##  CLI Commands
 
 | Command | What it does |
 |---|---|
@@ -143,7 +143,7 @@ python app.py
 
 ---
 
-## 📝 subjects.yaml — Adding a New Subject
+##  subjects.yaml — Adding a New Subject
 
 Open `subjects.yaml` and add an entry:
 
@@ -168,7 +168,7 @@ python rag_pipeline.py  # or: type "rebuild your_new_subject" in CLI
 
 ---
 
-## 🔧 Chunk Size Guide
+##  Chunk Size Guide
 
 | Subject type | chunk_size | chunk_overlap | Why |
 |---|---|---|---|
@@ -181,7 +181,7 @@ Child chunk size is automatically computed as `chunk_size ÷ 3`.
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 **`ollama: command not found`**
 ```bash
@@ -223,7 +223,7 @@ ollama pull phi3:mini   # 4GB RAM, 2-3x faster than Mistral
 
 ---
 
-## 📚 Recommended Free Textbooks
+##  Recommended Free Textbooks
 
 ### Cryptography
 - *Understanding Cryptography* — Paar & Pelzl (springer.com)
@@ -248,7 +248,7 @@ ollama pull phi3:mini   # 4GB RAM, 2-3x faster than Mistral
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Component | Tool | Why |
 |---|---|---|
@@ -264,7 +264,7 @@ ollama pull phi3:mini   # 4GB RAM, 2-3x faster than Mistral
 
 *Built for NIT Trichy CSE — runs fully offline on WSL2 + Ollama*
 
-Copyright & Licensing
+## Copyright & Licensing
 © 2026 Arpita. All rights reserved.
 
 This software is provided for academic use by students of NIT Trichy. Unauthorized distribution or commercial use is prohibited.
