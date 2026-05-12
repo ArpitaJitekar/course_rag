@@ -265,6 +265,6 @@ ollama pull phi3:mini   # 4GB RAM, 2-3x faster than Mistral
 *Built for NIT Trichy CSE — runs fully offline on WSL2 + Ollama*
 
 ## Copyright & Licensing
-© 2026 Arpita. All rights reserved.
+© 2026. All rights reserved.
 
-This software is provided for academic use by students of NIT Trichy. Unauthorized distribution or commercial use is prohibited.
+This software is provided for academic use by students of NIT Trichy. Unauthorized distribution is prohibited.
